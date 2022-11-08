@@ -1,2 +1,4 @@
-let number1 = 12;
+let number1 = '12'; //2b
+nubmer1 = 78; //4b
+number1 = 4n; //8b
 let nubmerBig = 13n; //bigint
